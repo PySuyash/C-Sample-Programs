@@ -1,4 +1,4 @@
-// Dynamic Array using Pointers.
+// Dynamic Array Allocation using Pointers.
 #include <stdio.h>
 #include <stdlib.h>
 
