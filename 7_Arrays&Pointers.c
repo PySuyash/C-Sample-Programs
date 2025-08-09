@@ -7,13 +7,13 @@ void reverseArray(int *ptr, int n) {
     int *first = ptr;
     int *last = (ptr+n-1);
 
-    while (*first < *last) {
+    while (first < last) {
         int temp = *first;
         *first = *last;
         *last = temp;
 
-        *first ++;
-        *last --;
+        first ++;
+        last --;
     }
 
     printf("\nReversed Array\n");
