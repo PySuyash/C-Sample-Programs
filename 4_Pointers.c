@@ -1,4 +1,4 @@
-// Reversin a string using pointers.
+// Reversing a string using pointers.
 
 #include <stdio.h>
 #include <string.h>
