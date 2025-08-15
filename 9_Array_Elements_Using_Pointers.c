@@ -1,3 +1,5 @@
+// Dynamic array creation and using the pointer to increase size and adding new elements.
+
 #include <stdio.h>
 #include <stdlib.h>
 
