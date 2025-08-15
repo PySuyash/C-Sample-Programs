@@ -1,3 +1,5 @@
+// Counting the frequency of each number.
+
 #include <stdio.h>
 #include <stdlib.h>
 
